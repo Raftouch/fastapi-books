@@ -5,3 +5,10 @@
 - **SQLite** for the database
 - **Uvicorn** for running the FastAPI app
 - **Pydantic** for data validation and serialization
+- **Pytest** for testing
+
+#### To run tests
+
+```bash
+pytest
+```

@@ -3,3 +3,6 @@ uvicorn
 pydantic
 aiosqlite 
 sqlalchemy
+pytest
+pytest-asyncio
+httpx
